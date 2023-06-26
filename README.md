@@ -1,3 +1,4 @@
 # README
 
-- ホスティング: https://vercel.com/
+- host: vercel
+https://redux-cart-ka12wibyf-tsudumiya.vercel.app/
